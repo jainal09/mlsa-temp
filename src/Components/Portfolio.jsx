@@ -33,26 +33,25 @@ const projectList = [
   {
     title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built “ATRIS” which is a startup that focused on personal knowledge base management. It included features such speech to text with note taking and individual speaker text separation, M.O.M.S (minutes of the meeting)automation, ai based meeting/Notes summary, meeting/notes sentiment analysis, searchable meetings/notes in images, audios, and typo tolerant texts, and much more.",
+    url: "https://github.com/jainal09/atris",
   },
   {
-    title: "Web Development for Beginners",
+    title: "NERP-Multi-Modal-Search",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Neural Information Extraction, Retrieval, and Processing for Multi-Modal Neural Search A RAG based search engine that can search through text, images, and audio files. It uses a multimodal transformer to encode the data and a RAG model to search through it. The project is built using the Hugging Face Transformers library and the PyTorch Lightning library.",
+    url: "https://github.com/semantic-search",
   },
   {
-    title: "My Resume Site",
+    title: "Mask_net",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Mask-Net is an IOT device that can be easily attached with existing cameras or surveillance system for effective mask-based detection system. It consists of a Raspberry Pi, webcam and an Ultrasonic sensor. The device uses advanced Machine Learning models to detect whether a person is wearing a mask or not with an accuracy of 90-95%.",
+    url: "https://github.com/jainal09/Mask_net",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Attendico",
+    description: "A Smart and innovative way for managing attendance.",
+    url: "https://github.com/jainal09/Attendico",
   },
 ];
 
